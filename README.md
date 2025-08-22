@@ -25,7 +25,7 @@
   - Regional Trends – Restaurant performance comparison across major cities with delivery type (standard, slow, fast).
   - Customer Behavior Analysis – Order contributions segmented by cuisine preferences and regional demand trends.
   - Interactive Filters – Slicers for city, food type, delivery type, rating category, and price category for in-depth exploration.
-  - Dashboard Preview & Download - |<a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/Swiggy_ouput.png">PREVIEW</a>
+  - Dashboard Preview & Download - | <a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/Swiggy_ouput.png">PREVIEW</a> |
 
 # 🔑Key KPIs (from the Dashboard)
    - Total Restaurants: 9,000
@@ -53,8 +53,8 @@
    - Regional Demand & Performance Analysis – Bar chart showing high vs normal demand across regions and cities.
 
 # 📂Dataset Information  
-**Dataset Used:** Swiggy Restaurant Dataset (Regional & Cuisine-level details)/
-**Dataset :** | <a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/SWIGGY_CLEANED.csv"> SWIGGY DATA </a> |
+  - **Dataset Used:** Swiggy Restaurant Dataset (Regional & Cuisine-level details)
+      - **Dataset :** | <a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/SWIGGY_CLEANED.csv"> SWIGGY DATA </a> |
 | Column Name        | Description                              |
 |--------------------|------------------------------------------|
 | Restaurant Name    | Name of the restaurant                   |
@@ -80,13 +80,12 @@
         - Cuisine distribution reveals preferences region-wise, helping identify high-demand cuisines.
         - Average delivery time is a key KPI impacting customer satisfaction, with fast deliveries being a differentiator.
         - Price category and rating interplay highlight the balance between cost and customer experience.
-        - Story PDF Preview & Download - |<a href= "https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/Swiggy_Storytelling.pdf">STORYTELLING</a>|
-
+        - Story PDF Preview & Download - | <a href= "https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/Swiggy_Storytelling.pdf">STORYTELLING</a> |
 
 # 📁Project File Structure
-  - Swiggy_Dashboard.pbix → Power BI File
-  - Swiggy_Dataset.csv → Dataset File
-  - Swiggy_output.png → Output Snapshot
+  - Swiggy_Dashboard.pbix → | <a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/swiggy.pbix">SWIGGY_POWER-BI</a> |
+  - Swiggy_Dataset.csv → | <a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/SWIGGY_CLEANED.csv">SWIGGY_DATASET</a> |
+  - Swiggy_output.png → | <a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/Swiggy_ouput.png">SWIGGY_OUTPUT</a> |
 
 # ✅Insights
    - Restaurants in Hyderabad and Delhi have the highest fast delivery proportion.

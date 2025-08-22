@@ -55,17 +55,17 @@
 # 📂Dataset Information  
   - **Dataset Used:** Swiggy Restaurant Dataset (Regional & Cuisine-level details)
       - **Dataset :** | <a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/SWIGGY_CLEANED.csv"> SWIGGY DATA </a> |
-| Column Name        | Description                              |
-|--------------------|------------------------------------------|
-| Restaurant Name    | Name of the restaurant                   |
-| City               | City where the restaurant operates       |
-| Cuisine Type       | Type of cuisine served                   |
-| Delivery Type      | Fast / Slow / Standard delivery          |
-| Avg Price          | Average price of items                   |
-| Avg Rating         | Customer rating                          |
-| Total Rating       | Total number of ratings                  |
-| Popularity/Demand  | Relative order demand                    |
-| Delivery Time      | Average delivery time in minutes         |
+      | Column Name        | Description                              |
+      |--------------------|------------------------------------------|
+      | Restaurant Name    | Name of the restaurant                   |
+      | City               | City where the restaurant operates       |
+      | Cuisine Type       | Type of cuisine served                   |
+      | Delivery Type      | Fast / Slow / Standard delivery          |
+      | Avg Price          | Average price of items                   |
+      | Avg Rating         | Customer rating                          |
+      | Total Rating       | Total number of ratings                  |
+      | Popularity/Demand  | Relative order demand                    |
+      | Delivery Time      | Average delivery time in minutes         |
 
 # 🛠️Tools & Techniques
    - Power BI → Dashboard design and visualization

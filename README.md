@@ -41,3 +41,12 @@
   - Average Rating – What are the common factors influencing restaurant ratings, and how can ratings be improved?
   - Total Ratings – Which cuisine or restaurant type receives the highest engagement from customers?
   - Fast Deliveries – Which delivery type (standard, fast, slow) drives higher customer satisfaction and repeat orders?
+
+# 📈Visualizations
+    - 🌍Regional Food Delivery Insights – Map view highlighting high, medium, and low delivery regions.
+    - 🏆Top 10 Restaurants by Average Rating – Visual ranking of restaurants based on customer ratings.
+    - 📊Demand Distribution Across Rating Categories – Shows high vs normal demand for each rating category.
+    - 🍛Cuisine Distribution by Region – Displays number of restaurants offering each cuisine per city.
+    - 📈Regional Restaurant Trends Across Major Cities – Shows delivery type proportions (fast, slow, standard) region-wise.
+    - 🥘Order Contribution Across Cuisine Groups – Pie chart showing order share by cuisine type.
+    - 📊Regional Demand & Performance Analysis – Bar chart showing high vs normal demand across regions and cities.

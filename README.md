@@ -35,18 +35,68 @@
    - Fast Deliveries: 1.78
  
 # ❓KPI Questions for Deeper Insights
-  - Total Restaurants – How is Swiggy expanding its restaurant partnerships across different cities?
-  - Average Delivery Time – Which cities/regions face the longest delivery times, and what factors contribute to delays?
-  - Average Price – Do premium cities like Bangalore/Delhi show higher average order prices compared to smaller cities?
-  - Average Rating – What are the common factors influencing restaurant ratings, and how can ratings be improved?
-  - Total Ratings – Which cuisine or restaurant type receives the highest engagement from customers?
-  - Fast Deliveries – Which delivery type (standard, fast, slow) drives higher customer satisfaction and repeat orders?
+   - Total Restaurants – How is Swiggy expanding its restaurant partnerships across different cities?
+   - Average Delivery Time – Which cities/regions face the longest delivery times, and what factors contribute to delays?
+   - Average Price – Do premium cities like Bangalore/Delhi show higher average order prices compared to smaller cities?
+   - Average Rating – What are the common factors influencing restaurant ratings, and how can ratings be improved?
+   - Total Ratings – Which cuisine or restaurant type receives the highest engagement from customers?
+   - Fast Deliveries – Which delivery type (standard, fast, slow) drives higher customer satisfaction and repeat orders?
 
 # 📈Visualizations
-    - 🌍Regional Food Delivery Insights – Map view highlighting high, medium, and low delivery regions.
-    - 🏆Top 10 Restaurants by Average Rating – Visual ranking of restaurants based on customer ratings.
-    - 📊Demand Distribution Across Rating Categories – Shows high vs normal demand for each rating category.
-    - 🍛Cuisine Distribution by Region – Displays number of restaurants offering each cuisine per city.
-    - 📈Regional Restaurant Trends Across Major Cities – Shows delivery type proportions (fast, slow, standard) region-wise.
-    - 🥘Order Contribution Across Cuisine Groups – Pie chart showing order share by cuisine type.
-    - 📊Regional Demand & Performance Analysis – Bar chart showing high vs normal demand across regions and cities.
+   - Regional Food Delivery Insights – Map view highlighting high, medium, and low delivery regions.
+   - Top 10 Restaurants by Average Rating – Visual ranking of restaurants based on customer ratings.
+   - Demand Distribution Across Rating Categories – Shows high vs normal demand for each rating category.
+   - Cuisine Distribution by Region – Displays number of restaurants offering each cuisine per city.
+   - Regional Restaurant Trends Across Major Cities – Shows delivery type proportions (fast, slow, standard) region-wise.
+   - Order Contribution Across Cuisine Groups – Pie chart showing order share by cuisine type.
+   - Regional Demand & Performance Analysis – Bar chart showing high vs normal demand across regions and cities.
+
+# 📂Dataset Information  
+**Dataset Used:** Swiggy Restaurant Dataset (Regional & Cuisine-level details)  
+| Column Name        | Description                              |
+|--------------------|------------------------------------------|
+| Restaurant Name    | Name of the restaurant                   |
+| City               | City where the restaurant operates       |
+| Cuisine Type       | Type of cuisine served                   |
+| Delivery Type      | Fast / Slow / Standard delivery          |
+| Avg Price          | Average price of items                   |
+| Avg Rating         | Customer rating                          |
+| Total Rating       | Total number of ratings                  |
+| Popularity/Demand  | Relative order demand                    |
+| Delivery Time      | Average delivery time in minutes         |
+
+# 🛠️Tools & Techniques
+   - Power BI → Dashboard design and visualization
+   - Power Query → Data cleaning and transformation
+   - DAX Measures → KPI calculations (Average Rating, Avg Delivery Time, Total Ratings, Fast Deliveries)
+   - Storytelling – Visual narrative of restaurant performance and demand trends
+
+# 📖Storytelling – The Insights Behind the Dashboard
+  - The Swiggy dashboard transforms raw delivery and restaurant data into meaningful business insights:
+        - Restaurants in certain regions (e.g., Delhi, Mumbai) show higher fast delivery rates, indicating operational efficiency.
+        - Top-rated restaurants often correlate with higher popularity and customer demand.
+        - Cuisine distribution reveals preferences region-wise, helping identify high-demand cuisines.
+        - Average delivery time is a key KPI impacting customer satisfaction, with fast deliveries being a differentiator.
+        - Price category and rating interplay highlight the balance between cost and customer experience.
+
+
+# 📁Project File Structure
+  - Swiggy_Dashboard.pbix → Power BI File
+  - Swiggy_Dataset.csv → Dataset File
+  - Swiggy_output.png → Output Snapshot
+
+# ✅Insights
+   - Restaurants in Hyderabad and Delhi have the highest fast delivery proportion.
+   - Top-rated restaurants often coincide with high demand.
+   - Certain cuisines dominate specific cities, e.g., Biryani in Hyderabad, Bakery in Bangalore.
+   - Average delivery time is below 60 minutes for high-performing restaurants.
+   - Popularity and rating trends can guide marketing and expansion strategies.
+
+# 📝Conclusion
+  - This project demonstrates how Power BI can turn complex restaurant datasets into actionable insights. By analyzing regional trends, cuisine distribution, 
+    livery performance, and customer ratings, the dashboard provides both strategic and operational insights. Interactive filters allow detailed exploration,
+    while KPIs offer a quick overview of key performance metrics. The storytelling approach connects operational data with business decision-making, helping
+    restaurants optimize performance and improve customer satisfaction.
+
+
+    

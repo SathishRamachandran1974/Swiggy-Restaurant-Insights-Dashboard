@@ -53,7 +53,8 @@
 
 # 📂Dataset Information  
 **Dataset Used:** Swiggy Restaurant Dataset (Regional & Cuisine-level details)
-**Dataset :** |<a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/SWIGGY_CLEANED.csv"> SWIGGY_CLEANED.CSV </a>|
+
+**Dataset :** | <a href ="https://github.com/SathishRamachandran1974/Swiggy-Restaurant-Insights-Dashboard/blob/main/SWIGGY_CLEANED.csv"> SWIGGY_DATA </a> |
 | Column Name        | Description                              |
 |--------------------|------------------------------------------|
 | Restaurant Name    | Name of the restaurant                   |

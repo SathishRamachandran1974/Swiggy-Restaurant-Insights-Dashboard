@@ -25,3 +25,19 @@
   - Regional Trends – Restaurant performance comparison across major cities with delivery type (standard, slow, fast).
   - Customer Behavior Analysis – Order contributions segmented by cuisine preferences and regional demand trends.
   - Interactive Filters – Slicers for city, food type, delivery type, rating category, and price category for in-depth exploration.
+
+# 🔑Key KPIs (from the Dashboard)
+   - Total Restaurants: 9,000
+   - Average Delivery Time: 53.97 min
+   - Average Price per Order: ₹348.52
+   - Average Rating: 3.66
+   - Total Ratings: 1 Million
+   - Fast Deliveries: 1.78
+ 
+# ❓KPI Questions for Deeper Insights
+  - Total Restaurants – How is Swiggy expanding its restaurant partnerships across different cities?
+  - Average Delivery Time – Which cities/regions face the longest delivery times, and what factors contribute to delays?
+  - Average Price – Do premium cities like Bangalore/Delhi show higher average order prices compared to smaller cities?
+  - Average Rating – What are the common factors influencing restaurant ratings, and how can ratings be improved?
+  - Total Ratings – Which cuisine or restaurant type receives the highest engagement from customers?
+  - Fast Deliveries – Which delivery type (standard, fast, slow) drives higher customer satisfaction and repeat orders?
